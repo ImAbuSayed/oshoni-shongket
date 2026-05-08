@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Oshoni Shongket
+
+This log tracks the cryptographic history and versioning for the song **Oshoni Shongket** (oshoni-shongket).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:29:21.225622 | `v1` | `21e4a4cd09c4122e2f411248bae34d5d8b02cb19c26c1b2944e6d2b06fb77d22` | `5ccc2382291ff304e441ffa15f71ee7128df3c2fe4f352cb245831199247ba95` | `2026-05-08_oshoni-shongket-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
